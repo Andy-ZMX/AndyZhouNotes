@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/第一.md",
+                "file": "JavaScript/第二.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/第一.md",
+                "file": "JavaScript/第二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/第一.md",
+                "file": "JavaScript/第二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/第一.md"
+                "file": "JavaScript/第二.md"
               }
             }
           }
@@ -155,9 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edc9446299971f0d",
+  "active": "cccbc751f9dd6b2a",
   "lastOpenFiles": [
-    "JavaScript",
-    "JavaScript/第一.md"
+    "JavaScript/第一.md",
+    "JavaScript/第二.md",
+    "JavaScript"
   ]
 }
