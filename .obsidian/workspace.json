@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0bbf39d13f72a942",
+        "id": "02241c6de24a8d26",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3b8ec75df650d9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cccbc751f9dd6b2a",
+            "id": "d57d6184ddba80ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/第二.md",
+                "file": "JavaScript/第一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c1318ab5c99bd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/第一.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/第二.md",
+                "file": "JavaScript/第一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/第二.md",
+                "file": "JavaScript/第一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/第二.md"
+                "file": "JavaScript/第一.md"
               }
             }
           }
@@ -155,8 +159,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cccbc751f9dd6b2a",
+  "active": "6c1318ab5c99bd36",
   "lastOpenFiles": [
+    "未命名.md",
     "JavaScript/第一.md",
     "JavaScript/第二.md",
     "JavaScript"
