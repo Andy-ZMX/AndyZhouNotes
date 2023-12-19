@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/节流和防抖.md",
+                "file": "JavaScript/第二.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/节流和防抖.md",
+                "file": "JavaScript/第二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/节流和防抖.md",
+                "file": "JavaScript/第二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/节流和防抖.md"
+                "file": "JavaScript/第二.md"
               }
             }
           }
@@ -164,12 +164,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c1318ab5c99bd36",
+  "active": "edc9446299971f0d",
   "lastOpenFiles": [
-    "未命名",
-    "未命名.md",
     "JavaScript/节流和防抖.md",
     "JavaScript/第二.md",
+    "未命名",
+    "未命名.md",
     "JavaScript"
   ]
 }
