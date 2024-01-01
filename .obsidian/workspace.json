@@ -6,6 +6,7 @@
       {
         "id": "02241c6de24a8d26",
         "type": "tabs",
+        "dimension": 60.15228426395939,
         "children": [
           {
             "id": "6c1318ab5c99bd36",
@@ -24,6 +25,7 @@
       {
         "id": "2a4d269f61fdda0b",
         "type": "tabs",
+        "dimension": 39.847715736040605,
         "children": [
           {
             "id": "9b62a96f66fb5e05",
@@ -177,7 +179,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cac8b8972794eec0",
+  "active": "6c1318ab5c99bd36",
   "lastOpenFiles": [
     "Oracle/未命名.md",
     "Oracle/增删改查.md",
