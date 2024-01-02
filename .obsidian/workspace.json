@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "02241c6de24a8d26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a224ea5a2c34a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "设计模式/代理模式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e71cebf0b6069cb3",
         "type": "tabs",
         "children": [
@@ -31,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/代理模式.md",
-                "mode": "preview",
+                "file": "设计模式/原型模式.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/代理模式.md",
+                "file": "设计模式/原型模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/代理模式.md",
+                "file": "设计模式/原型模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/代理模式.md"
+                "file": "设计模式/原型模式.md"
               }
             }
           }
@@ -166,9 +148,10 @@
   },
   "active": "80fe65ce75cc800c",
   "lastOpenFiles": [
+    "设计模式/代理模式.md",
+    "设计模式/原型模式.md",
     "设计模式/工厂模式.md",
     "设计模式/单例模式.md",
-    "设计模式/代理模式.md",
     "JavaScript/节流和防抖.md",
     "Oracle/增删改查.md",
     "设计模式",
