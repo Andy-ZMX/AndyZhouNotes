@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/工厂模式.md",
+                "file": "JavaScript/第二.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/原型模式.md",
+                "file": "JavaScript/第二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/原型模式.md",
+                "file": "JavaScript/第二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/原型模式.md"
+                "file": "JavaScript/第二.md"
               }
             }
           }
@@ -164,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c6f3f539880ce570",
+  "active": "edc9446299971f0d",
   "lastOpenFiles": [
     "设计模式/工厂模式.md",
     "设计模式/单例模式.md",
