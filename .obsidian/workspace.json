@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e71cebf0b6069cb3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80fe65ce75cc800c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "设计模式/原型模式.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a20be64c4cfb7b8b",
         "type": "tabs",
         "children": [
@@ -176,18 +158,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80fe65ce75cc800c",
+  "active": "edc9446299971f0d",
   "lastOpenFiles": [
-    "Soft Technology/对称加密 和 非对称加密.md",
+    "未命名 1",
+    "未命名.canvas",
     "Oracle/增删改查.md",
+    "Oracle/未命名.md",
+    "设计模式/原型模式.md",
+    "Soft Technology/对称加密 和 非对称加密.md",
     "JavaScript/第二.md",
     "设计模式/工厂模式.md",
     "设计模式/单例模式.md",
     "设计模式/代理模式.md",
-    "设计模式/原型模式.md",
     "JavaScript/节流和防抖.md",
     "设计模式",
-    "Oracle/未命名.md",
     "Oracle",
     "Soft Technology",
     "未命名",
