@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft Technology/节流 和 防抖.md",
+                "file": "JavaScript/import 和 export.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft Technology/节流 和 防抖.md",
+                "file": "JavaScript/import 和 export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft Technology/节流 和 防抖.md",
+                "file": "JavaScript/import 和 export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft Technology/节流 和 防抖.md"
+                "file": "JavaScript/import 和 export.md"
               }
             }
           },
@@ -158,8 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edc9446299971f0d",
+  "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
+    "JavaScript/作用域.md",
+    "JavaScript/import 和 export.md",
+    "Soft Technology/节流 和 防抖.md",
     "JavaScript/类 class.md",
     "Oracle/未命名.md",
     "JavaScript/原型链.md",
@@ -171,7 +174,6 @@
     "Soft Technology/对称加密 和 非对称加密.md",
     "设计模式/工厂模式.md",
     "设计模式/代理模式.md",
-    "Soft Technology/节流 和 防抖.md",
     "设计模式",
     "Oracle",
     "Soft Technology",
