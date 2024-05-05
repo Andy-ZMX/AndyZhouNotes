@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/import 和 export.md",
-                "mode": "source",
+                "file": "设计模式/单例模式.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/import 和 export.md",
+                "file": "设计模式/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/import 和 export.md",
+                "file": "设计模式/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/import 和 export.md"
+                "file": "设计模式/单例模式.md"
               }
             }
           },
@@ -160,10 +160,11 @@
   },
   "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
-    "JavaScript/作用域.md",
-    "JavaScript/import 和 export.md",
-    "Soft Technology/节流 和 防抖.md",
+    "JavaScript/闭包.md",
     "JavaScript/类 class.md",
+    "JavaScript/import 和 export.md",
+    "JavaScript/作用域.md",
+    "Soft Technology/节流 和 防抖.md",
     "Oracle/未命名.md",
     "JavaScript/原型链.md",
     "设计模式/单例模式.md",
