@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/单例模式.md",
-                "mode": "source",
+                "file": "JavaScript/原型链.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "JavaScript/原型链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "JavaScript/原型链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/单例模式.md"
+                "file": "JavaScript/原型链.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
+    "设计模式/单例模式.md",
     "设计模式/原型模式.md",
     "未命名 1",
     "未命名.canvas",
     "Oracle/增删改查.md",
     "Oracle/未命名.md",
     "Soft Technology/对称加密 和 非对称加密.md",
-    "JavaScript/第二.md",
+    "JavaScript/原型链.md",
     "设计模式/工厂模式.md",
-    "设计模式/单例模式.md",
     "设计模式/代理模式.md",
     "JavaScript/节流和防抖.md",
     "设计模式",
