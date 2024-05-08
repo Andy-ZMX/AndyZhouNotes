@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/增删改查.md",
-                "mode": "source",
+                "file": "JavaScript/作用域.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/增删改查.md",
+                "file": "JavaScript/作用域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/增删改查.md",
+                "file": "JavaScript/作用域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/增删改查.md"
+                "file": "JavaScript/作用域.md"
               }
             }
           },
@@ -160,6 +160,10 @@
   },
   "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
+    "JavaScript/原型链.md",
+    "JavaScript/自执行函数.md",
+    "JavaScript/箭头函数.md",
+    "Oracle/增删改查.md",
     "JavaScript/闭包.md",
     "设计模式/策略模式.md",
     "设计模式/单例模式.md",
@@ -169,11 +173,9 @@
     "JavaScript/作用域.md",
     "Soft Technology/节流 和 防抖.md",
     "Oracle/未命名.md",
-    "JavaScript/原型链.md",
     "设计模式/原型模式.md",
     "未命名 1",
     "未命名.canvas",
-    "Oracle/增删改查.md",
     "Soft Technology/对称加密 和 非对称加密.md",
     "设计模式/代理模式.md",
     "设计模式",
