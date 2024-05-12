@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/作用域.md",
-                "mode": "preview",
+                "file": "JavaScript/内置对象/Map.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "JavaScript/内置对象/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "JavaScript/内置对象/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/作用域.md"
+                "file": "JavaScript/内置对象/Map.md"
               }
             }
           },
@@ -160,6 +160,10 @@
   },
   "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
+    "JavaScript/内置对象/Set.md",
+    "JavaScript/内置对象/Map.md",
+    "JavaScript/作用域.md",
+    "JavaScript/内置对象",
     "JavaScript/原型链.md",
     "JavaScript/自执行函数.md",
     "JavaScript/箭头函数.md",
@@ -170,7 +174,6 @@
     "设计模式/工厂模式.md",
     "JavaScript/类 class.md",
     "JavaScript/import 和 export.md",
-    "JavaScript/作用域.md",
     "Soft Technology/节流 和 防抖.md",
     "Oracle/未命名.md",
     "设计模式/原型模式.md",
