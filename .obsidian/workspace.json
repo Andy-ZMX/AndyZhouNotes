@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/内置对象/WeakMap.md",
+                "file": "JavaScript/BOM 和 DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/内置对象/WeakMap.md",
+                "file": "JavaScript/BOM 和 DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/内置对象/WeakMap.md",
+                "file": "JavaScript/BOM 和 DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/内置对象/WeakMap.md"
+                "file": "JavaScript/BOM 和 DOM.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
-    "JavaScript/内置对象/String.md",
     "JavaScript/内置对象/WeakMap.md",
+    "JavaScript/BOM 和 DOM.md",
+    "JavaScript/内置对象/String.md",
     "JavaScript/原型链.md",
     "JavaScript/循环.md",
     "JavaScript/内置对象/Number.md",
