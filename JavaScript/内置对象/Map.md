@@ -25,7 +25,6 @@ var m = new Map([['name', 'Andy'], ['age', 21]])
 
 ------------
 
-
 **Map.prototype.get()**
 通过key获取value
 ```javascript
@@ -34,7 +33,6 @@ m.get('DDD')	// undefined
 ```
 
 ------------
-
 
 **Map.prototype.has()**
 判断元素是否存在，如果有就返回true，没有就返回false
@@ -45,7 +43,6 @@ m.has('DDD')	// false
 
 ------------
 
-
 **Map.prototype.delete()**
 删除元素，如果有就删除返回ture，没有就不动返回false
 ```javascript
@@ -55,17 +52,13 @@ m.delete("DDD")		// false
 
 ------------
 
-
 **Map.prototype.clear()**
 清空所有元素
 ```javascript
 m.clear()
 ```
 
-
 ------------
-
-
 
 **Map.prototype.forEach()**
 遍历元素
@@ -76,12 +69,7 @@ m.forEach((key, value) => {
 })
 ```
 
-
-
-
 ------------
-
-
 
 **Map转数组：**
 ```javascript
@@ -96,9 +84,7 @@ m.set('CCC', 20);
 [...m]          // [["AAA", 18], ["BBB", 19], ["CCC", 20]]
 ```
 
-
 ------------
-
 
 **Map.groupBy()**
 ```javascript
