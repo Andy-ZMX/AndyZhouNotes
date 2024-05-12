@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/内置对象/Array.md",
+                "file": "JavaScript/内置对象/Date.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/内置对象/Array.md",
+                "file": "JavaScript/内置对象/Date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/内置对象/Array.md",
+                "file": "JavaScript/内置对象/Date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/内置对象/Array.md"
+                "file": "JavaScript/内置对象/Date.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
-    "JavaScript/内置对象/Map.md",
     "JavaScript/内置对象/Array.md",
+    "JavaScript/内置对象/Date.md",
+    "JavaScript/内置对象/Map.md",
     "JavaScript/内置对象/Set.md",
     "JavaScript/作用域.md",
     "JavaScript/内置对象",
