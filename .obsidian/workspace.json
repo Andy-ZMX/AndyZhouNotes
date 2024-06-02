@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/BOM 和 DOM.md",
+                "file": "Oracle/增删改查.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/BOM 和 DOM.md",
+                "file": "Oracle/增删改查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/BOM 和 DOM.md",
+                "file": "Oracle/增删改查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/BOM 和 DOM.md"
+                "file": "Oracle/增删改查.md"
               }
             }
           },
@@ -158,10 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edc9446299971f0d",
+  "active": "6d1f9ad41c751a41",
   "lastOpenFiles": [
-    "JavaScript/内置对象/WeakMap.md",
     "JavaScript/BOM 和 DOM.md",
+    "JavaScript/内置对象/WeakMap.md",
     "JavaScript/内置对象/String.md",
     "JavaScript/原型链.md",
     "JavaScript/循环.md",
