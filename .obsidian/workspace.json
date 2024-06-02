@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/增删改查.md",
+                "file": "Oracle/增删改查（分区）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/增删改查.md",
+                "file": "Oracle/增删改查（分区）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/增删改查.md",
+                "file": "Oracle/增删改查（分区）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/增删改查.md"
+                "file": "Oracle/增删改查（分区）.md"
               }
             }
           },
@@ -158,8 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d1f9ad41c751a41",
+  "active": "edc9446299971f0d",
   "lastOpenFiles": [
+    "Oracle/增删改查.md",
+    "Oracle/增删改查（分区）.md",
     "JavaScript/BOM 和 DOM.md",
     "JavaScript/内置对象/WeakMap.md",
     "JavaScript/内置对象/String.md",
@@ -175,14 +177,12 @@
     "JavaScript/内置对象",
     "JavaScript/自执行函数.md",
     "JavaScript/箭头函数.md",
-    "Oracle/增删改查.md",
     "JavaScript/闭包.md",
     "设计模式/策略模式.md",
     "设计模式/单例模式.md",
     "设计模式/工厂模式.md",
     "JavaScript/类 class.md",
     "JavaScript/import 和 export.md",
-    "Oracle/未命名.md",
     "设计模式/原型模式.md",
     "未命名 1",
     "未命名.canvas",
