@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/未命名.md",
+                "file": "Oracle/函数 nullif.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/未命名.md",
+                "file": "Oracle/函数 nullif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/未命名.md",
+                "file": "Oracle/函数 nullif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/未命名.md"
+                "file": "Oracle/函数 nullif.md"
               }
             }
           },
@@ -161,7 +161,7 @@
   "active": "08d4065471e6899a",
   "lastOpenFiles": [
     "Oracle/函数 nvl.md",
-    "Oracle/未命名.md",
+    "Oracle/函数 nullif.md",
     "Oracle/局部排序 - partition by.md",
     "Oracle/表交并集 - union intersect.md",
     "Oracle/分组排序 - order by.md",
