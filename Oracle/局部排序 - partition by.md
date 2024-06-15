@@ -1,9 +1,32 @@
 
-**先按 description 分组，再按 queryid 降序排序，sequence 与每组的长度有关**
+**先按 PRODUCTIONTYPE 分组，再按 PRIORITY 降序排序，sequence 与每组的长度有关**
 
+------------
+
+ROW_NUMBER() 是连续的：
 ```sql
-select queryid,
-       description,
-       row_number() over(partition by description order by queryid desc) sequence
-  from ct_customquery
+SELECT LOTNAME,
+       PRODUCTIONTYPE,
+       PRIORITY,
+       ROW_NUMBER() OVER(PARTITION BY PRODUCTIONTYPE ORDER BY PRIORITY DESC) RANK
+  FROM (SELECT * FROM LOT WHERE ROWNUM <= 50)
 ```
+
+![[Pasted image 20240615233615.png]]
+
+------------
+
+RANK() 可以有并列的：
+```sql
+SELECT LOTNAME,
+       PRODUCTIONTYPE,
+       PRIORITY,
+       RANK() OVER(PARTITION BY PRODUCTIONTYPE ORDER BY PRIORITY DESC) RANK
+  FROM (SELECT * FROM LOT WHERE ROWNUM <= 50)
+```
+
+![[Pasted image 20240615233654.png]]
+
+---
+
+https://blog.csdn.net/qq_37630282/article/details/124660037
