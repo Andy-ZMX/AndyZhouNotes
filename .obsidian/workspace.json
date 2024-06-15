@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/函数 nullif.md",
+                "file": "Oracle/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/函数 nullif.md",
+                "file": "Oracle/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/函数 nullif.md",
+                "file": "Oracle/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/函数 nullif.md"
+                "file": "Oracle/未命名.md"
               }
             }
           },
@@ -160,8 +160,13 @@
   },
   "active": "08d4065471e6899a",
   "lastOpenFiles": [
-    "Oracle/函数 nvl.md",
+    "Oracle/函数 decode.md",
+    "Oracle/未命名.md",
+    "Oracle/函数 substr.md",
+    "Oracle/函数 greatest.md",
+    "Oracle/函数 coalesce.md",
     "Oracle/函数 nullif.md",
+    "Oracle/函数 nvl.md",
     "Oracle/局部排序 - partition by.md",
     "Oracle/表交并集 - union intersect.md",
     "Oracle/分组排序 - order by.md",
@@ -188,11 +193,6 @@
     "JavaScript/内置对象/String.md",
     "JavaScript/原型链.md",
     "JavaScript/循环.md",
-    "JavaScript/内置对象/Number.md",
-    "Soft Technology/节流 和 防抖.md",
-    "JavaScript/内置对象/Set.md",
-    "JavaScript/内置对象/Date.md",
-    "JavaScript/内置对象/Array.md",
     "JavaScript/内置对象",
     "未命名 1",
     "未命名.canvas",
