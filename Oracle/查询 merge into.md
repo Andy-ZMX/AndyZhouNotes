@@ -1,0 +1,91 @@
+
+**场景**：从 t1 表更新数据到 t2 表，若 t2 表 NAME 字段在 t1 表中存在，就将 t2 表的 MONEY 字段累加，若不存在，就将 t1 表的数据插入到 t2 中
+```sql
+MERGE INTO T2
+USING T1
+ON (T1.NAME = T2.NAME)
+WHEN MATCHED THEN
+  UPDATE SET T2.MONEY = T1.MONEY + T2.MONEY
+WHEN NOT ATCHED THEN 
+  INSERT VALUES(T1.NAME，T1.MONEY)
+```
+
+------------
+
+update 和 insert 可以只出现一个：
+```sql
+MERGE INTO T2
+USING T1
+ON (T1.NAME = T2.NAME)
+WHEN MATCHED THEN
+  UPDATE SET T2.MONEY = T1MONEY + T2.MONEY
+```
+```sql
+MERGE INTO T2
+USING T1
+ON (T1.NAME = T2.NAME)
+WHEN NOT ATCHED THEN 
+  INSERT VALUES(T1.NAME，T1.MONEY)
+```
+
+------------
+
+可以采用无条件insert，用于表数据迁移：
+```sql
+MERGE INTO T2
+USING T1
+ON (1 = 2)
+WHEN NOT MATCHED THEN
+  INSERT VALUES (T1.NAME, T1.MONEY)
+```
+
+------------
+
+**误区1：**t1 表与 t2表的对应数据，不能是 “多：1”
+```sql
+-- 可以做个聚合，将 T1 表归并成单条
+
+MERGE INTO T2
+USING (SELECT NAME, SUM(MONEY) AS MONEY FROM T1 GROUP BY NAME) T1
+ON (T1.NAME = T2NAME)
+WHEN MATCHED THEN
+  UPDATE SET T2.MONEY = T1.MONEY + T2.MONEY
+```
+
+------------
+
+**误区2：**更新同一个表的数据，要考虑 USING 后的空值
+
+需求为：对 T2 表进行自我更新，如果在 T2 表中发现 NAME=D 的记录就将该记录的 MONEY 字段更新为 100，如果 NAME=D 的记录不存在，则自动增加 NAME=D 的记录，sql如下：
+```sql
+MERGE INTO T2
+USING (SELECT * FROM t2 WHERE NAME = 'D') T
+ON (T.NAME = T2.NAME)
+WHEN MATCHED THEN
+  UPDATE SET T2.MONEY = 100
+WHEN NOT MATCHED THEN
+  INSERT VALUES ('D', 100)
+```
+但是查询发现，本来T表应该因为不存在 NAME=D的记录而要增加记录，但是实际却根本无变化
+
+原因是 USING 后面必须包含要更新或插入的行。而 T 中根本没有这一行，可改造如下，巧妙地实现需求：
+```sql
+MERGE INTO T2
+USING (SELECT COUNT(*) CNT FROM t2 WHERE NAME = 'D') T
+ON (T.CNT != 0)
+WHEN MATCHED THEN
+  UPDATE SET T2.MONEY = 100
+WHEN NOT MATCHED THEN
+  INSERT VALUES ('D', 100)
+```
+
+------------
+
+**误区3：**delete 之前要有update
+```sql
+MERGE INTO USERPROFILE T2
+USING (SELECT USER_ID FROM RESIGNATIONS WHERE IS_DISABLED = 'true') T1
+ON (T1.USER_ID = T2.USERID)
+WHEN MATCHED THEN
+  UPDATE SET T2.USERNAME = T2.USERNAME DELETE WHERE T1.USER_ID = T2.USERID
+```
