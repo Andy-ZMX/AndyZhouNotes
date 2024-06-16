@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/查询 if + for.md",
+                "file": "Oracle/函数 列转行 listagg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/查询 if + for.md",
+                "file": "Oracle/函数 列转行 listagg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/查询 if + for.md",
+                "file": "Oracle/函数 列转行 listagg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/查询 if + for.md"
+                "file": "Oracle/函数 列转行 listagg.md"
               }
             }
           },
@@ -160,8 +160,13 @@
   },
   "active": "08d4065471e6899a",
   "lastOpenFiles": [
-    "Oracle/查询 分割 connect by.md",
+    "Oracle/基本 增删改查.md",
+    "Oracle/函数 列转行 listagg.md",
+    "Oracle/查询 真实的执行计划.md",
+    "Oracle/查询 分组去重 group by.md",
+    "Oracle/查询 分组排序 order by.md",
     "Oracle/查询 if + for.md",
+    "Oracle/查询 分割 connect by.md",
     "Oracle/查询 merge into.md",
     "Oracle/查询 递归查询 start with.md",
     "Oracle/查询 条件查询 case when.md",
@@ -175,18 +180,13 @@
     "Oracle/基本 表连接 join.md",
     "Oracle/基本 表交并集 union intersect.md",
     "Oracle/基本 增删改查（分区）.md",
-    "Oracle/基本 增删改查.md",
     "Oracle/查询 过去的数据.md",
     "Oracle/查询 条件查询 in.md",
     "Oracle/查询 结果拼凑.md",
-    "Oracle/查询 分组排序 order by.md",
-    "Oracle/查询 分组去重 group by.md",
     "Oracle/查询 局部排序 partition by.md",
     "Oracle/查询 去重 distinct.md",
     "Oracle/查询 条件查询 exists.md",
     "Oracle/查询 匹配项 fetch.md",
-    "Oracle/查询 临时表 with as.md",
-    "Oracle/查询 行号查询 rownum.md",
     "images/Pasted image 20240615233654.png",
     "images/Pasted image 20240615233615.png",
     "images",

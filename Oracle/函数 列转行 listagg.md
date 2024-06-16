@@ -1,0 +1,7 @@
+
+**列转行：将lot表的所有字段放在一行，并用符号隔开**
+
+```sql
+SELECT LISTAGG(COLUMN_NAME, ',') WITHIN GROUP(ORDER BY COLUMN_NAME)
+  FROM (select COLUMN_NAME from USER_TAB_COLUMNS WHERE TABLE_NAME = 'LOT')
+```
