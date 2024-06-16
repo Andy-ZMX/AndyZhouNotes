@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/函数 列转行 listagg.md",
+                "file": "Oracle/基本 索引 index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/函数 列转行 listagg.md",
+                "file": "Oracle/基本 索引 index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/函数 列转行 listagg.md",
+                "file": "Oracle/基本 索引 index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/函数 列转行 listagg.md"
+                "file": "Oracle/基本 索引 index.md"
               }
             }
           },
@@ -160,8 +160,13 @@
   },
   "active": "08d4065471e6899a",
   "lastOpenFiles": [
-    "Oracle/基本 增删改查.md",
+    "Pasted image 20240616160722.png",
+    "Pasted image 20240616160702.png",
+    "Pasted image 20240616160640.png",
+    "Oracle/函数 translate.md",
+    "Oracle/基本 索引 index.md",
     "Oracle/函数 列转行 listagg.md",
+    "Oracle/基本 增删改查.md",
     "Oracle/查询 真实的执行计划.md",
     "Oracle/查询 分组去重 group by.md",
     "Oracle/查询 分组排序 order by.md",
@@ -184,9 +189,6 @@
     "Oracle/查询 条件查询 in.md",
     "Oracle/查询 结果拼凑.md",
     "Oracle/查询 局部排序 partition by.md",
-    "Oracle/查询 去重 distinct.md",
-    "Oracle/查询 条件查询 exists.md",
-    "Oracle/查询 匹配项 fetch.md",
     "images/Pasted image 20240615233654.png",
     "images/Pasted image 20240615233615.png",
     "images",
