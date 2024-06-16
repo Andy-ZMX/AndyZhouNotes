@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/查询 过去的数据.md",
+                "file": "Oracle/查询 死锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/查询 过去的数据.md",
+                "file": "Oracle/查询 死锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/查询 过去的数据.md",
+                "file": "Oracle/查询 死锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/查询 过去的数据.md"
+                "file": "Oracle/查询 死锁.md"
               }
             }
           },
@@ -160,8 +160,18 @@
   },
   "active": "08d4065471e6899a",
   "lastOpenFiles": [
-    "Oracle/查询 条件查询 in.md",
+    "Oracle/查询 获取XML节点.md",
+    "Oracle/查询 死锁.md",
+    "images/Pasted image 20240616150407.png",
+    "Oracle/基本 存储过程 procedure.md",
+    "Oracle/基本 视图 view.md",
+    "Oracle/基本 函数 function.md",
+    "Oracle/基本 表连接 join.md",
+    "Oracle/基本 表交并集 union intersect.md",
+    "Oracle/基本 增删改查（分区）.md",
+    "Oracle/基本 增删改查.md",
     "Oracle/查询 过去的数据.md",
+    "Oracle/查询 条件查询 in.md",
     "Oracle/查询 结果拼凑.md",
     "Oracle/查询 分组排序 order by.md",
     "Oracle/查询 分组去重 group by.md",
@@ -177,15 +187,6 @@
     "Oracle/函数 sign.md",
     "Oracle/函数 trunc.md",
     "Oracle/函数 decode.md",
-    "Oracle/函数 substr.md",
-    "Oracle/函数 greatest.md",
-    "Oracle/函数 coalesce.md",
-    "Oracle/函数 nullif.md",
-    "Oracle/函数 nvl.md",
-    "Oracle/表交并集 - union intersect.md",
-    "Oracle/表连接 - join.md",
-    "Oracle/增删改查（分区）.md",
-    "Oracle/增删改查.md",
     "images/Pasted image 20240615233654.png",
     "images/Pasted image 20240615233615.png",
     "images",
