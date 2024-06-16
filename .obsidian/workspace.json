@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/未命名.md",
+                "file": "Oracle/函数 sign.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/未命名.md",
+                "file": "Oracle/函数 sign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/未命名.md",
+                "file": "Oracle/函数 sign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/未命名.md"
+                "file": "Oracle/函数 sign.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "08d4065471e6899a",
   "lastOpenFiles": [
+    "Oracle/函数 trunc.md",
+    "Oracle/函数 sign.md",
     "Oracle/函数 decode.md",
-    "Oracle/未命名.md",
     "Oracle/函数 substr.md",
     "Oracle/函数 greatest.md",
     "Oracle/函数 coalesce.md",
@@ -192,7 +193,6 @@
     "JavaScript/内置对象/WeakMap.md",
     "JavaScript/内置对象/String.md",
     "JavaScript/原型链.md",
-    "JavaScript/循环.md",
     "JavaScript/内置对象",
     "未命名 1",
     "未命名.canvas",
