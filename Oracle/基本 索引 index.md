@@ -19,8 +19,6 @@ SELECT ROWID,
 ![[Pasted image 20240616160640.png]]
 
 ------------
-
-
 ### 聚簇因子 
 聚簇因子（CLUSTERING_FACTOR）认为是根据索引遍历一遍实体表的逻辑读的块数。因为数据读取方式以块为单位，不是行，因此在读取大范围数据（满足条件行很多，不是unique index scan）时，利用聚簇因子好的索引，其读取块少，读取效率会很高
 ```sql
@@ -39,24 +37,19 @@ SELECT SEGMENT_NAME, BLOCKS
 先查索引叶节点，取每行得到rowid，再根据rowid去实体表中查询，但是聚簇因子很大的话，连续的rowid很随机，无法实现连续读取
 
 ------------
-
 ### TABLE ACCESS BY USER ROWID
 直接通过 rowid 回表
 ![[Pasted image 20240616160702.png]]
 
 ------------
-
 ### TABLE ACCESS BY INDEX ROWID
 通过 index 获取 rowid 再回表（仅一行）
 ![[Pasted image 20240616160722.png]]
 
 ------------
-
-
-
 ### TABLE ACCESS BY INDEX ROWID BATCHED
 通过 index 获取 rowid（排个序）再回表（获取多个行的数据）
-
+![[Pasted image 20240616160750.png]]
 
 举个例子，以下有四行数据：
 (1) 索引扫描返回需要回表的第一个记录rowid，假设对应到第一个数据文件、第一个数据块、第一行的数据。
@@ -68,43 +61,35 @@ SELECT SEGMENT_NAME, BLOCKS
 上面的 (1)、(3)、(4) 的三次回表，可能要三次I/O ，现在批量回表，可能只需要一次I/O，降低了物理读
 
 ------------
-
 ### INDEX UNIQUE SCAN
 索引唯一扫描
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=ccf53f4e7033718afb3990fc77a07895&file=file.png)
+![[Pasted image 20240616160811.png]]
 
 ------------
-
 ### INDEX RANGE SCAN
 索引范围扫描（where 条件中有索引引导列）
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=b077431442f449a4b621e1da9d11d497&file=file.png)
+![[Pasted image 20240616160827.png]]
 
 
 ------------
-
 ### INDEX SKIP SCAN
 索引跳跃扫描（where 条件中没有索引引导列，skip 可以理解为跳跃引导列的意思）
 以下 PRODUCTREQUESTNAME, FACTORYNAME, LOTHOLDSTATE, LOTSTATE 为联合索引
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=f90ab6d12c09dd46111c74d659bd6553&file=file.png)
-
-
+![[Pasted image 20240616160843.png]]
 
 ------------
-
 ### INDEX FAST FULL SCAN
 索引快速全扫描（select 后边都是索引列里的，并且 where 条件中没有索引引导列的）
 以下 PRODUCTREQUESTNAME, FACTORYNAME, LOTHOLDSTATE, LOTSTATE 为联合索引
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=ef5644cc236fc754c7496f792d5a5177&file=file.png)
+![[Pasted image 20240616160857.png]]
 
 ------------
-
 ### TABLE ACCESS FULL
 全表扫描
 以下 DISPATCHINGFLAG, FACTORYNAME 为联合索引，虽然 DISPATCHINGFLAG 为条件，但过滤性能不强，oracle 会放弃该索引
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=0f3cb3f7ad50899aeca87c88da5f2ccc&file=file.png)
+![[Pasted image 20240616160907.png]]
 
 ------------
-
 ### 查询索引
 ```sql
 SELECT * FROM USER_INDEXES WHERE TABLE_NAME = 'LOT'
@@ -112,7 +97,6 @@ SELECT * FROM USER_IND_COLUMNS WHERE TABLE_NAME = 'LOT'
 ```
 
 ------------
-
 ### 创建索引
 ```sql
 CREATE INDEX CT_FIRSTINSP_INDEX1 ON CT_FIRSTINSP(CREATETIME)
