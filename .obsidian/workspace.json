@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "JavaScript/循环.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "JavaScript/循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "JavaScript/循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/单例模式.md"
+                "file": "JavaScript/循环.md"
               }
             }
           },
@@ -160,11 +160,18 @@
   },
   "active": "6c92e9d3e0ef5c2c",
   "lastOpenFiles": [
+    "JavaScript/隐式转换 和 显示转换.md",
+    "JavaScript/import 和 export.md",
+    "JavaScript/switch 语句.md",
+    "JavaScript/奇怪的符号.md",
+    "JavaScript/循环.md",
+    "设计模式/原型模式.md",
+    "设计模式/工厂模式.md",
+    "设计模式/单例模式.md",
     "设计模式/代理模式.md",
     "设计模式/策略模式.md",
     "Soft Technology/节流 和 防抖.md",
     "Soft Technology/对称加密 和 非对称加密.md",
-    "JavaScript/import 和 export.md",
     "JavaScript/BOM 和 DOM.md",
     "JavaScript/作用域.md",
     "JavaScript/闭包.md",
@@ -172,7 +179,6 @@
     "JavaScript/类 class.md",
     "JavaScript/数据类型.md",
     "JavaScript/原型链.md",
-    "JavaScript/循环.md",
     "JavaScript/内置对象/JSON.md",
     "JavaScript/内置对象/BigInt.md",
     "JavaScript/生活小妙招/前端导出 excel.md",
@@ -190,12 +196,6 @@
     "images/Pasted image 20240616160827.png",
     "images/Pasted image 20240616160811.png",
     "Oracle/函数 translate.md",
-    "Oracle/函数 列转行 listagg.md",
-    "Oracle/基本 增删改查.md",
-    "Oracle/查询 真实的执行计划.md",
-    "Oracle/查询 分组去重 group by.md",
-    "Oracle/查询 分组排序 order by.md",
-    "Oracle/查询 if + for.md",
     "images/Pasted image 20240616150407.png",
     "images",
     "JavaScript/内置对象",
