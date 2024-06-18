@@ -1,4 +1,6 @@
 
+---
+
 **export：可以导出多个**
 
 ```javascript
@@ -32,7 +34,6 @@ export function sayHello() {
 ------------
 
 **export default：只能导出一个**
-
 
 ```javascript
 // 先定义后导出
