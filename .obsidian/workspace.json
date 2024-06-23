@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/盒模型.md",
+                "file": "JavaScript/生活小妙招/不一样的 console.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/盒模型.md",
+                "file": "JavaScript/生活小妙招/不一样的 console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/盒模型.md",
+                "file": "JavaScript/生活小妙招/不一样的 console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/盒模型.md"
+                "file": "JavaScript/生活小妙招/不一样的 console.md"
               }
             }
           },
@@ -158,11 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edc9446299971f0d",
+  "active": "6c92e9d3e0ef5c2c",
   "lastOpenFiles": [
+    "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
+    "JavaScript/生活小妙招/不一样的 console.md",
+    "CSS/盒模型.md",
+    "images/Pasted image 20240623135319.png",
     "images/Pasted image 20240618232859.png",
     "JavaScript/自定义属性.md",
-    "CSS/盒模型.md",
     "CSS",
     "JavaScript/解构赋值.md",
     "JavaScript/循环.md",
@@ -186,7 +189,6 @@
     "JavaScript/原型链.md",
     "JavaScript/内置对象/JSON.md",
     "JavaScript/内置对象/BigInt.md",
-    "JavaScript/生活小妙招/前端导出 excel.md",
     "JavaScript/生活小妙招",
     "images/Pasted image 20240616160640.png",
     "images/Pasted image 20240616160702.png",
@@ -196,8 +198,6 @@
     "images/Pasted image 20240616160857.png",
     "images/Pasted image 20240616160843.png",
     "images/Pasted image 20240616160827.png",
-    "images/Pasted image 20240616160811.png",
-    "images/Pasted image 20240616150407.png",
     "images",
     "JavaScript/内置对象",
     "未命名 1",
