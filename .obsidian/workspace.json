@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
+                "file": "CSS/自定义属性.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
+                "file": "CSS/自定义属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
+                "file": "CSS/自定义属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/生活小妙招/sessionStorage 和 localStorage.md"
+                "file": "CSS/自定义属性.md"
               }
             }
           },
@@ -160,9 +160,17 @@
   },
   "active": "6c92e9d3e0ef5c2c",
   "lastOpenFiles": [
+    "CSS/position.md",
+    "CSS/自定义属性.md",
+    "Pasted image 20240623144022.png",
+    "Pasted image 20240623144011.png",
+    "CSS/flex.md",
+    "Pasted image 20240623143548.png",
+    "Pasted image 20240623143523.png",
+    "Pasted image 20240623143511.png",
+    "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
     "JavaScript/解构赋值.md",
     "JavaScript/定时器.md",
-    "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
     "JavaScript/生活小妙招/input 首次自动获取焦点.md",
     "JavaScript/生活小妙招/前端导出 excel.md",
     "JavaScript/生活小妙招/获取鼠标选中的文本.md",
@@ -187,17 +195,9 @@
     "Pasted image 20240623140334.png",
     "Pasted image 20240623140317.png",
     "Pasted image 20240623140308.png",
-    "Pasted image 20240623140244.png",
-    "Pasted image 20240623140229.png",
     "CSS/盒模型.md",
-    "images/Pasted image 20240623135319.png",
-    "images/Pasted image 20240618232859.png",
     "CSS",
-    "设计模式/原型模式.md",
-    "设计模式/工厂模式.md",
-    "设计模式/单例模式.md",
     "JavaScript/生活小妙招",
-    "images/Pasted image 20240616160640.png",
     "images",
     "JavaScript/内置对象",
     "未命名 1",
