@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/伪类 和 伪元素.md",
+                "file": "CSS/属性选择器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/伪类 和 伪元素.md",
+                "file": "CSS/属性选择器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/伪类 和 伪元素.md",
+                "file": "CSS/属性选择器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/伪类 和 伪元素.md"
+                "file": "CSS/属性选择器.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "717417903262df5e",
   "lastOpenFiles": [
-    "CSS/display.md",
     "CSS/伪类 和 伪元素.md",
+    "CSS/属性选择器.md",
+    "CSS/display.md",
     "Pasted image 20240623205322.png",
     "Pasted image 20240623205301.png",
     "Pasted image 20240623205248.png",
@@ -196,7 +197,6 @@
     "JavaScript/生活小妙招/前端导出 excel.md",
     "JavaScript/生活小妙招/获取鼠标选中的文本.md",
     "JavaScript/生活小妙招/复制到剪切板.md",
-    "JavaScript/生活小妙招/不一样的 console.md",
     "CSS",
     "JavaScript/生活小妙招",
     "images",
