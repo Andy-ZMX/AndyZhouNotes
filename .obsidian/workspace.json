@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/属性选择器.md",
+                "file": "CSS/生活小妙招/懒加载.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/属性选择器.md",
+                "file": "CSS/生活小妙招/懒加载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/属性选择器.md",
+                "file": "CSS/生活小妙招/懒加载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/属性选择器.md"
+                "file": "CSS/生活小妙招/懒加载.md"
               }
             }
           },
@@ -160,8 +160,12 @@
   },
   "active": "717417903262df5e",
   "lastOpenFiles": [
-    "CSS/伪类 和 伪元素.md",
+    "Pasted image 20240623211629.png",
+    "CSS/生活小妙招/自动打字.md",
+    "CSS/生活小妙招/懒加载.md",
+    "Pasted image 20240623211406.png",
     "CSS/属性选择器.md",
+    "CSS/伪类 和 伪元素.md",
     "CSS/display.md",
     "Pasted image 20240623205322.png",
     "Pasted image 20240623205301.png",
@@ -179,7 +183,6 @@
     "images/Pasted image 20240623162408.png",
     "CSS/生活小妙招/幸运转盘.md",
     "CSS/生活小妙招/掘金网格背景.md",
-    "images/Pasted image 20240623160751.png",
     "CSS/生活小妙招/图片变大（transform）.md",
     "CSS/生活小妙招/社交软件图片模糊.md",
     "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
@@ -194,9 +197,6 @@
     "JavaScript/解构赋值.md",
     "JavaScript/定时器.md",
     "JavaScript/生活小妙招/input 首次自动获取焦点.md",
-    "JavaScript/生活小妙招/前端导出 excel.md",
-    "JavaScript/生活小妙招/获取鼠标选中的文本.md",
-    "JavaScript/生活小妙招/复制到剪切板.md",
     "CSS",
     "JavaScript/生活小妙招",
     "images",
