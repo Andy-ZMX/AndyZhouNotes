@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/生活小妙招/不一样的 console.md",
+                "file": "JavaScript/import 和 export.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/生活小妙招/不一样的 console.md",
+                "file": "JavaScript/import 和 export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/生活小妙招/不一样的 console.md",
+                "file": "JavaScript/import 和 export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/生活小妙招/不一样的 console.md"
+                "file": "JavaScript/import 和 export.md"
               }
             }
           },
@@ -160,8 +160,18 @@
   },
   "active": "6c92e9d3e0ef5c2c",
   "lastOpenFiles": [
-    "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
+    "JavaScript/生活小妙招/获取鼠标选中的文本.md",
+    "JavaScript/生活小妙招/复制到剪切板.md",
+    "JavaScript/生活小妙招/input 首次自动获取焦点.md",
     "JavaScript/生活小妙招/不一样的 console.md",
+    "Pasted image 20240623140353.png",
+    "Pasted image 20240623140338.png",
+    "Pasted image 20240623140334.png",
+    "Pasted image 20240623140317.png",
+    "Pasted image 20240623140308.png",
+    "Pasted image 20240623140244.png",
+    "Pasted image 20240623140229.png",
+    "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
     "CSS/盒模型.md",
     "images/Pasted image 20240623135319.png",
     "images/Pasted image 20240618232859.png",
@@ -186,18 +196,8 @@
     "JavaScript/箭头函数.md",
     "JavaScript/类 class.md",
     "JavaScript/数据类型.md",
-    "JavaScript/原型链.md",
-    "JavaScript/内置对象/JSON.md",
-    "JavaScript/内置对象/BigInt.md",
     "JavaScript/生活小妙招",
     "images/Pasted image 20240616160640.png",
-    "images/Pasted image 20240616160702.png",
-    "images/Pasted image 20240616160722.png",
-    "images/Pasted image 20240616160750.png",
-    "images/Pasted image 20240616160907.png",
-    "images/Pasted image 20240616160857.png",
-    "images/Pasted image 20240616160843.png",
-    "images/Pasted image 20240616160827.png",
     "images",
     "JavaScript/内置对象",
     "未命名 1",

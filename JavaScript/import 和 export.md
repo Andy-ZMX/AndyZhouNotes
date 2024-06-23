@@ -111,3 +111,25 @@ const andy = useAndy()
 console.log(andy.name)  // Andy
 andy.fn()   // fn
 ```
+
+
+---
+
+**普通 html 使用外部 JS**
+
+```javascript
+// 普通html
+<head>
+    <script type="text/javascript" src="./test.js"></script>
+</head>
+<body>
+    <script>
+        console.log(person)
+    </script>
+</body>
+```
+
+```javascript
+// test.js:
+var person = "Andy";
+```
