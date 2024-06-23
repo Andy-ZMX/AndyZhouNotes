@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d1c3e67aef61cc8",
+        "id": "9032e5c934bbbe45",
         "type": "tabs",
         "children": [
           {
-            "id": "717417903262df5e",
+            "id": "ac68dbace247864d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/生活小妙招/button 朋克机能.md",
+                "file": "Soft Technology/开发一个浏览器插件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/生活小妙招/button 朋克机能.md",
+                "file": "Soft Technology/开发一个浏览器插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/生活小妙招/button 朋克机能.md",
+                "file": "Soft Technology/开发一个浏览器插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/生活小妙招/button 朋克机能.md"
+                "file": "Soft Technology/开发一个浏览器插件.md"
               }
             }
           },
@@ -158,25 +158,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "717417903262df5e",
+  "active": "ac68dbace247864d",
   "lastOpenFiles": [
-    "CSS/生活小妙招/button 霓虹灯.md",
-    "Pasted image 20240623221737.png",
+    "images/Pasted image 20240623205248.png",
+    "Soft Technology/开发一个浏览器插件.md",
+    "CSS/background.md",
     "CSS/生活小妙招/button 朋克机能.md",
-    "Pasted image 20240623221640.png",
+    "CSS/生活小妙招/button 霓虹灯.md",
+    "images/Pasted image 20240623221737.png",
+    "images/Pasted image 20240623221640.png",
     "CSS/BFC.md",
-    "Pasted image 20240623221440.png",
+    "images/Pasted image 20240623221440.png",
     "CSS/scoped.md",
     "CSS/生活小妙招/懒加载.md",
-    "Pasted image 20240623211629.png",
+    "images/Pasted image 20240623211629.png",
     "CSS/生活小妙招/自动打字.md",
-    "Pasted image 20240623211406.png",
+    "images/Pasted image 20240623211406.png",
     "CSS/属性选择器.md",
     "CSS/伪类 和 伪元素.md",
     "CSS/display.md",
-    "Pasted image 20240623205322.png",
-    "Pasted image 20240623205301.png",
-    "Pasted image 20240623205248.png",
+    "images/Pasted image 20240623205322.png",
+    "images/Pasted image 20240623205301.png",
     "CSS/生活小妙招/元素居中.md",
     "CSS/长度单位.md",
     "CSS/生活小妙招/顶端进度条.md",
@@ -194,8 +196,6 @@
     "JavaScript/生活小妙招/用 js 添加  css.md",
     "CSS/生活小妙招",
     "CSS/自定义属性.md",
-    "CSS/position.md",
-    "CSS/flex.md",
     "CSS",
     "JavaScript/生活小妙招",
     "images",
