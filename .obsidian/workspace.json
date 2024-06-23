@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/生活小妙招/元素居中.md",
+                "file": "CSS/伪类 和 伪元素.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/生活小妙招/元素居中.md",
+                "file": "CSS/伪类 和 伪元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/生活小妙招/元素居中.md",
+                "file": "CSS/伪类 和 伪元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/生活小妙招/元素居中.md"
+                "file": "CSS/伪类 和 伪元素.md"
               }
             }
           },
@@ -160,8 +160,13 @@
   },
   "active": "717417903262df5e",
   "lastOpenFiles": [
-    "CSS/长度单位.md",
+    "CSS/display.md",
+    "CSS/伪类 和 伪元素.md",
+    "Pasted image 20240623205322.png",
+    "Pasted image 20240623205301.png",
+    "Pasted image 20240623205248.png",
     "CSS/生活小妙招/元素居中.md",
+    "CSS/长度单位.md",
     "CSS/生活小妙招/顶端进度条.md",
     "CSS/生活小妙招/一键返回顶部.md",
     "images/Pasted image 20240623140229.png",
@@ -179,13 +184,10 @@
     "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
     "CSS/生活小妙招/让动画效果暂停和继续播放.md",
     "CSS/生活小妙招/点九图（边框局部拉伸）.md",
-    "images/Pasted image 20240623153201.png",
     "JavaScript/生活小妙招/用 js 添加  css.md",
     "CSS/生活小妙招",
     "CSS/自定义属性.md",
     "CSS/position.md",
-    "images/Pasted image 20240623144022.png",
-    "images/Pasted image 20240623144011.png",
     "CSS/flex.md",
     "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
     "JavaScript/解构赋值.md",
@@ -195,8 +197,6 @@
     "JavaScript/生活小妙招/获取鼠标选中的文本.md",
     "JavaScript/生活小妙招/复制到剪切板.md",
     "JavaScript/生活小妙招/不一样的 console.md",
-    "JavaScript/闭包.md",
-    "JavaScript/箭头函数.md",
     "CSS",
     "JavaScript/生活小妙招",
     "images",
