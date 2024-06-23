@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95536ec172c19bff",
+        "id": "2d1c3e67aef61cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "6c92e9d3e0ef5c2c",
+            "id": "717417903262df5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/生活小妙招/幸运转盘.md",
+                "file": "CSS/生活小妙招/顶端进度条.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/生活小妙招/幸运转盘.md",
+                "file": "CSS/生活小妙招/顶端进度条.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/生活小妙招/幸运转盘.md",
+                "file": "CSS/生活小妙招/顶端进度条.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/生活小妙招/幸运转盘.md"
+                "file": "CSS/生活小妙招/顶端进度条.md"
               }
             }
           },
@@ -158,28 +158,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c92e9d3e0ef5c2c",
+  "active": "717417903262df5e",
   "lastOpenFiles": [
     "CSS/生活小妙招/一键返回顶部.md",
+    "images/Pasted image 20240623140229.png",
+    "images/Pasted image 20240623140244.png",
+    "images/Pasted image 20240623140308.png",
+    "CSS/生活小妙招/顶端进度条.md",
+    "images/Pasted image 20240623162705.png",
+    "CSS/生活小妙招/固定在顶部.md",
+    "images/Pasted image 20240623162417.png",
+    "images/Pasted image 20240623162408.png",
     "CSS/生活小妙招/幸运转盘.md",
     "CSS/生活小妙招/掘金网格背景.md",
-    "Pasted image 20240623160751.png",
+    "images/Pasted image 20240623160751.png",
     "CSS/生活小妙招/图片变大（transform）.md",
     "CSS/生活小妙招/社交软件图片模糊.md",
     "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
     "CSS/生活小妙招/让动画效果暂停和继续播放.md",
     "CSS/生活小妙招/点九图（边框局部拉伸）.md",
-    "Pasted image 20240623153201.png",
+    "images/Pasted image 20240623153201.png",
     "JavaScript/生活小妙招/用 js 添加  css.md",
     "CSS/生活小妙招",
     "CSS/自定义属性.md",
     "CSS/position.md",
-    "Pasted image 20240623144022.png",
-    "Pasted image 20240623144011.png",
+    "images/Pasted image 20240623144022.png",
+    "images/Pasted image 20240623144011.png",
     "CSS/flex.md",
-    "Pasted image 20240623143548.png",
-    "Pasted image 20240623143523.png",
-    "Pasted image 20240623143511.png",
     "JavaScript/生活小妙招/sessionStorage 和 localStorage.md",
     "JavaScript/解构赋值.md",
     "JavaScript/定时器.md",
@@ -191,12 +196,6 @@
     "JavaScript/闭包.md",
     "JavaScript/箭头函数.md",
     "JavaScript/类 class.md",
-    "JavaScript/奇怪的符号.md",
-    "JavaScript/数据类型.md",
-    "JavaScript/循环.md",
-    "Pasted image 20240623140353.png",
-    "Pasted image 20240623140338.png",
-    "Pasted image 20240623140334.png",
     "CSS",
     "JavaScript/生活小妙招",
     "images",
