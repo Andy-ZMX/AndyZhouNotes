@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/生活小妙招/懒加载.md",
+                "file": "CSS/scoped.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/生活小妙招/懒加载.md",
+                "file": "CSS/scoped.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/生活小妙招/懒加载.md",
+                "file": "CSS/scoped.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/生活小妙招/懒加载.md"
+                "file": "CSS/scoped.md"
               }
             }
           },
@@ -160,9 +160,10 @@
   },
   "active": "717417903262df5e",
   "lastOpenFiles": [
+    "CSS/生活小妙招/懒加载.md",
+    "CSS/scoped.md",
     "Pasted image 20240623211629.png",
     "CSS/生活小妙招/自动打字.md",
-    "CSS/生活小妙招/懒加载.md",
     "Pasted image 20240623211406.png",
     "CSS/属性选择器.md",
     "CSS/伪类 和 伪元素.md",
@@ -180,7 +181,6 @@
     "images/Pasted image 20240623162705.png",
     "CSS/生活小妙招/固定在顶部.md",
     "images/Pasted image 20240623162417.png",
-    "images/Pasted image 20240623162408.png",
     "CSS/生活小妙招/幸运转盘.md",
     "CSS/生活小妙招/掘金网格背景.md",
     "CSS/生活小妙招/图片变大（transform）.md",
