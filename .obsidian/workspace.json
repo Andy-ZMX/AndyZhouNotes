@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/生活小妙招/点九图（边框局部拉伸）.md",
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/生活小妙招/点九图（边框局部拉伸）.md",
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/生活小妙招/点九图（边框局部拉伸）.md",
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/生活小妙招/点九图（边框局部拉伸）.md"
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md"
               }
             }
           },
@@ -160,9 +160,11 @@
   },
   "active": "6c92e9d3e0ef5c2c",
   "lastOpenFiles": [
+    "CSS/生活小妙招/让动画效果暂停和继续播放.md",
+    "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
+    "CSS/生活小妙招/点九图（边框局部拉伸）.md",
     "Pasted image 20240623153201.png",
     "JavaScript/生活小妙招/用 js 添加  css.md",
-    "CSS/生活小妙招/点九图（边框局部拉伸）.md",
     "CSS/生活小妙招",
     "CSS/自定义属性.md",
     "CSS/position.md",
@@ -191,12 +193,10 @@
     "JavaScript/自定义属性.md",
     "JavaScript/自执行函数.md",
     "JavaScript/作用域.md",
-    "JavaScript/BOM 和 DOM.md",
     "Pasted image 20240623140353.png",
     "Pasted image 20240623140338.png",
     "Pasted image 20240623140334.png",
     "Pasted image 20240623140317.png",
-    "Pasted image 20240623140308.png",
     "CSS",
     "JavaScript/生活小妙招",
     "images",
