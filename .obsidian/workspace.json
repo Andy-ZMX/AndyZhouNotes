@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/async 函数.md",
+                "file": "JavaScript/生活小妙招/导出 excel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/async 函数.md",
+                "file": "JavaScript/生活小妙招/导出 excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/async 函数.md",
+                "file": "JavaScript/生活小妙招/导出 excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/async 函数.md"
+                "file": "JavaScript/生活小妙招/导出 excel.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "ac68dbace247864d",
   "lastOpenFiles": [
-    "JavaScript/JS 异步应用.md",
+    "JavaScript/生活小妙招/导出文件.md",
+    "Pasted image 20240630211622.png",
+    "JavaScript/Generator 函数.md",
     "JavaScript/async 函数.md",
+    "JavaScript/JS 异步应用.md",
     "JavaScript/window 的 事件.md",
     "JavaScript/生活小妙招/webworker.md",
     "JavaScript/import 和 export.md",
@@ -184,9 +187,6 @@
     "CSS/生活小妙招/文本超范围省略号代替.md",
     "CSS/生活小妙招/网站变灰.md",
     "CSS/生活小妙招/禁止选择 和 整段选择.md",
-    "CSS/生活小妙招/锚点跳转.md",
-    "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
-    "Soft Technology/开发一个浏览器插件.md",
     "images/Pasted image 20240623205248.png",
     "images/Pasted image 20240623221737.png",
     "images/Pasted image 20240623221640.png",
@@ -195,7 +195,6 @@
     "images/Pasted image 20240623211406.png",
     "images/Pasted image 20240623205322.png",
     "images/Pasted image 20240623205301.png",
-    "images/Pasted image 20240623140229.png",
     "CSS/生活小妙招",
     "CSS",
     "JavaScript/生活小妙招",
