@@ -75,16 +75,18 @@ document.getElementById("andy").style.color="red"
 // className 可以覆盖之前的样式
 document.getElementById("andy").className = 'cs1 cs2'
 ```
+
 ```javascript
 // classList 可以追加和删除样式，不影响之前的样式
 document.getElementById("andy").classList.add('cs1')        // 添加
 document.getElementById("andy").classList.remove('cs1')     // 删除
-document.getElementById("andy").classList.toggle('cs1')     // 有就删掉，没有就删掉     应用在开关上
+document.getElementById("andy").classList.toggle('cs1')     // 切换	应用在开关上
 ```
 
 ------------
 
 **DOM 节点的增加**
+
 - appendChild(node)，添加子节点 node（至最后）
 ```html
 <div id="andy">
@@ -92,6 +94,7 @@ document.getElementById("andy").classList.toggle('cs1')     // 有就删掉，�
 	<p>bbb</p>
 </div>
 ```
+
 ```javascript
 const node = document.createElement("p")
 // 将节点 p 添加到 id 为 andy 的节点下面
@@ -99,6 +102,7 @@ document.getElementById("andy").appendChild(node)
 // 之后可以对 p 节点的属性进行设置
 node.innerText = "ccc"
 ```
+
 ```html
 // 结果
 <div id="andy">
@@ -107,6 +111,7 @@ node.innerText = "ccc"
 	<p>ccc</p>
 </div>
 ```
+
 - insertBefore(node，b1)，添加子节点node（至b1节点前）
 ```html
 <div id="andy">
@@ -136,6 +141,7 @@ node.innerText = "ccc"
 ------------
 
 **DOM 节点的删除**
+
 - removeChild(b1)，删除子节点 b1
 ```html
 <div id="andy">
@@ -155,10 +161,10 @@ document.getElementById("andy").removeChild(b1)
 	<p>aaa</p>
 </div>
 ```
+
 **有个好方法，可以不用知道具体的父元素，可以使用 parentNode 属性来查找其父元素：**
 ```javascript
 document.getElementById("b1").parentNode.removeChild(b1)
 ```
 
-------------
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/内置对象/Document.md",
+                "file": "JavaScript/window 的 history.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/内置对象/Document.md",
+                "file": "JavaScript/window 的 history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/内置对象/Document.md",
+                "file": "JavaScript/window 的 history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/内置对象/Document.md"
+                "file": "JavaScript/window 的 history.md"
               }
             }
           },
@@ -160,8 +160,12 @@
   },
   "active": "ac68dbace247864d",
   "lastOpenFiles": [
+    "JavaScript/函数参数 arguments.md",
+    "JavaScript/window 的 history.md",
+    "JavaScript/window 的 onload.md",
+    "JavaScript/window 的 document.md",
+    "JavaScript/switch 语句.md",
     "JavaScript/内置对象/Array.md",
-    "JavaScript/内置对象/Document.md",
     "JavaScript/BOM 和 DOM.md",
     "CSS/生活小妙招/文本超范围省略号代替.md",
     "CSS/生活小妙招/网站变灰.md",
@@ -190,12 +194,8 @@
     "CSS/生活小妙招/元素居中.md",
     "CSS/长度单位.md",
     "CSS/生活小妙招/顶端进度条.md",
-    "CSS/生活小妙招/一键返回顶部.md",
     "images/Pasted image 20240623140229.png",
     "images/Pasted image 20240623140244.png",
-    "CSS/生活小妙招/固定在顶部.md",
-    "CSS/生活小妙招/幸运转盘.md",
-    "CSS/生活小妙招/掘金网格背景.md",
     "CSS/生活小妙招",
     "CSS",
     "JavaScript/生活小妙招",
