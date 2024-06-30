@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/生活小妙招/webworker.md",
+                "file": "JavaScript/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/生活小妙招/webworker.md",
+                "file": "JavaScript/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/生活小妙招/webworker.md",
+                "file": "JavaScript/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/生活小妙招/webworker.md"
+                "file": "JavaScript/未命名.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "ac68dbace247864d",
   "lastOpenFiles": [
-    "JavaScript/import 和 export.md",
     "JavaScript/生活小妙招/webworker.md",
+    "JavaScript/未命名.md",
+    "JavaScript/import 和 export.md",
     "JavaScript/内置对象/Object.md",
     "JavaScript/内置对象/Symbol.md",
     "JavaScript/闭包.md",
@@ -187,7 +188,6 @@
     "images/Pasted image 20240623205248.png",
     "CSS/background.md",
     "CSS/生活小妙招/button 朋克机能.md",
-    "CSS/生活小妙招/button 霓虹灯.md",
     "images/Pasted image 20240623221737.png",
     "images/Pasted image 20240623221640.png",
     "images/Pasted image 20240623221440.png",
