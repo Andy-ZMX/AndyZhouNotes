@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/window 的 history.md",
+                "file": "JavaScript/闭包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/window 的 history.md",
+                "file": "JavaScript/闭包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/window 的 history.md",
+                "file": "JavaScript/闭包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/window 的 history.md"
+                "file": "JavaScript/闭包.md"
               }
             }
           },
@@ -160,8 +160,14 @@
   },
   "active": "ac68dbace247864d",
   "lastOpenFiles": [
-    "JavaScript/函数参数 arguments.md",
+    "JavaScript/作用域.md",
+    "JavaScript/自定义属性.md",
+    "JavaScript/类 class.md",
+    "JavaScript/生活小妙招/ASCII 码转换.md",
+    "JavaScript/生活小妙招/一键全选.md",
+    "Pasted image 20240630143827.png",
     "JavaScript/window 的 history.md",
+    "JavaScript/函数参数 arguments.md",
     "JavaScript/window 的 onload.md",
     "JavaScript/window 的 document.md",
     "JavaScript/switch 语句.md",
@@ -187,15 +193,9 @@
     "CSS/生活小妙招/自动打字.md",
     "images/Pasted image 20240623211406.png",
     "CSS/属性选择器.md",
-    "CSS/伪类 和 伪元素.md",
-    "CSS/display.md",
     "images/Pasted image 20240623205322.png",
     "images/Pasted image 20240623205301.png",
-    "CSS/生活小妙招/元素居中.md",
-    "CSS/长度单位.md",
-    "CSS/生活小妙招/顶端进度条.md",
     "images/Pasted image 20240623140229.png",
-    "images/Pasted image 20240623140244.png",
     "CSS/生活小妙招",
     "CSS",
     "JavaScript/生活小妙招",
