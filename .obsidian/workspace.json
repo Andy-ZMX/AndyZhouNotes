@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft Technology/开发一个浏览器插件.md",
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft Technology/开发一个浏览器插件.md",
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft Technology/开发一个浏览器插件.md",
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft Technology/开发一个浏览器插件.md"
+                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "ac68dbace247864d",
   "lastOpenFiles": [
-    "images/Pasted image 20240623205248.png",
     "Soft Technology/开发一个浏览器插件.md",
+    "images/Pasted image 20240623205248.png",
     "CSS/background.md",
     "CSS/生活小妙招/button 朋克机能.md",
     "CSS/生活小妙招/button 霓虹灯.md",
