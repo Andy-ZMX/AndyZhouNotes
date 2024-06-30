@@ -112,6 +112,15 @@ console.log(andy.name)  // Andy
 andy.fn()   // fn
 ```
 
+---
+
+**动态 import**
+
+```javascript
+import('./test.js').then((data) => {
+  console.log(data.name)
+})
+```
 
 ---
 

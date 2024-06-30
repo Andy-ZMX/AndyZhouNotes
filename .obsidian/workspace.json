@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/闭包.md",
+                "file": "JavaScript/import 和 export.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/闭包.md",
+                "file": "JavaScript/import 和 export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/闭包.md",
+                "file": "JavaScript/import 和 export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/闭包.md"
+                "file": "JavaScript/import 和 export.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "ac68dbace247864d",
   "lastOpenFiles": [
+    "JavaScript/内置对象/Object.md",
+    "JavaScript/内置对象/Symbol.md",
+    "JavaScript/闭包.md",
     "JavaScript/作用域.md",
     "JavaScript/自定义属性.md",
     "JavaScript/类 class.md",
@@ -188,11 +191,8 @@
     "CSS/BFC.md",
     "images/Pasted image 20240623221440.png",
     "CSS/scoped.md",
-    "CSS/生活小妙招/懒加载.md",
     "images/Pasted image 20240623211629.png",
-    "CSS/生活小妙招/自动打字.md",
     "images/Pasted image 20240623211406.png",
-    "CSS/属性选择器.md",
     "images/Pasted image 20240623205322.png",
     "images/Pasted image 20240623205301.png",
     "images/Pasted image 20240623140229.png",
