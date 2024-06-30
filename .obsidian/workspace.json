@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
+                "file": "JavaScript/内置对象/Document.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
+                "file": "JavaScript/内置对象/Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
+                "file": "JavaScript/内置对象/Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/生活小妙招/媒体查询（不同设备自适应）.md"
+                "file": "JavaScript/内置对象/Document.md"
               }
             }
           },
@@ -160,6 +160,14 @@
   },
   "active": "ac68dbace247864d",
   "lastOpenFiles": [
+    "JavaScript/内置对象/Array.md",
+    "JavaScript/内置对象/Document.md",
+    "JavaScript/BOM 和 DOM.md",
+    "CSS/生活小妙招/文本超范围省略号代替.md",
+    "CSS/生活小妙招/网站变灰.md",
+    "CSS/生活小妙招/禁止选择 和 整段选择.md",
+    "CSS/生活小妙招/锚点跳转.md",
+    "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
     "Soft Technology/开发一个浏览器插件.md",
     "images/Pasted image 20240623205248.png",
     "CSS/background.md",
@@ -188,14 +196,7 @@
     "CSS/生活小妙招/固定在顶部.md",
     "CSS/生活小妙招/幸运转盘.md",
     "CSS/生活小妙招/掘金网格背景.md",
-    "CSS/生活小妙招/图片变大（transform）.md",
-    "CSS/生活小妙招/社交软件图片模糊.md",
-    "CSS/生活小妙招/媒体查询（不同设备自适应）.md",
-    "CSS/生活小妙招/让动画效果暂停和继续播放.md",
-    "CSS/生活小妙招/点九图（边框局部拉伸）.md",
-    "JavaScript/生活小妙招/用 js 添加  css.md",
     "CSS/生活小妙招",
-    "CSS/自定义属性.md",
     "CSS",
     "JavaScript/生活小妙招",
     "images",
