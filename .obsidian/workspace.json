@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/内置对象/Number.md",
+                "file": "CSS/生活小妙招/文本显示上标和下标.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/内置对象/Number.md",
+                "file": "CSS/生活小妙招/文本显示上标和下标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/内置对象/Number.md",
+                "file": "CSS/生活小妙招/文本显示上标和下标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/内置对象/Number.md"
+                "file": "CSS/生活小妙招/文本显示上标和下标.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "24aa618a1e53ae5a",
   "lastOpenFiles": [
+    "JavaScript/生活小妙招/前端埋点.md",
+    "CSS/生活小妙招/文本显示上标和下标.md",
+    "JavaScript/内置对象/Number.md",
     "images/Pasted image 20240630143827.png",
     "Oracle/网站.md",
     "images/Pasted image 20240630211622.png",
@@ -188,8 +191,6 @@
     "JavaScript/函数参数 arguments.md",
     "JavaScript/window 的 onload.md",
     "JavaScript/window 的 document.md",
-    "JavaScript/switch 语句.md",
-    "JavaScript/内置对象/Array.md",
     "images/Pasted image 20240623205248.png",
     "images/Pasted image 20240623221737.png",
     "images/Pasted image 20240623221640.png",
