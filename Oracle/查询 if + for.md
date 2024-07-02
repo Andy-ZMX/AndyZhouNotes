@@ -64,3 +64,16 @@ begin
       commit;   
 end;
 ```
+
+```sql
+CREATE OR REPLACE PROCEDURE assign_value_example
+IS
+  v_employee_name VARCHAR2(100);
+BEGIN
+  SELECT first_name INTO v_employee_name
+  FROM employees
+  WHERE employee_id = 100;
+
+  DBMS_OUTPUT.PUT_LINE('Employee Name: ' || v_employee_name);
+END;
+```
