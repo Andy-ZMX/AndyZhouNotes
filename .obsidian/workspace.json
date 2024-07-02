@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9032e5c934bbbe45",
+        "id": "fc94351450d9b539",
         "type": "tabs",
         "children": [
           {
-            "id": "ac68dbace247864d",
+            "id": "24aa618a1e53ae5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/网站.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d688cf861fce0989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "查询 DBLINK.md",
+                "file": "JavaScript/内置对象/Number.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "查询 DBLINK.md",
+                "file": "JavaScript/内置对象/Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "查询 DBLINK.md",
+                "file": "JavaScript/内置对象/Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "查询 DBLINK.md"
+                "file": "JavaScript/内置对象/Number.md"
               }
             }
           },
@@ -171,17 +158,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d688cf861fce0989",
+  "active": "24aa618a1e53ae5a",
   "lastOpenFiles": [
-    "Pasted image 20240702214531.png",
-    "Pasted image 20240702214518.png",
-    "Pasted image 20240702214506.png",
+    "images/Pasted image 20240630143827.png",
     "Oracle/网站.md",
-    "查询 DBLINK.md",
+    "images/Pasted image 20240630211622.png",
+    "images/Pasted image 20240702214506.png",
+    "Oracle/查询 DBLINK.md",
+    "images/Pasted image 20240702214531.png",
+    "images/Pasted image 20240702214518.png",
     "Oracle/查询 if + for.md",
     "JavaScript/生活小妙招/导出 excel.md",
     "JavaScript/生活小妙招/导出文件.md",
-    "Pasted image 20240630211622.png",
     "JavaScript/Generator 函数.md",
     "JavaScript/async 函数.md",
     "JavaScript/JS 异步应用.md",
@@ -196,7 +184,6 @@
     "JavaScript/类 class.md",
     "JavaScript/生活小妙招/ASCII 码转换.md",
     "JavaScript/生活小妙招/一键全选.md",
-    "Pasted image 20240630143827.png",
     "JavaScript/window 的 history.md",
     "JavaScript/函数参数 arguments.md",
     "JavaScript/window 的 onload.md",
@@ -208,7 +195,6 @@
     "images/Pasted image 20240623221640.png",
     "images/Pasted image 20240623221440.png",
     "images/Pasted image 20240623211629.png",
-    "images/Pasted image 20240623211406.png",
     "CSS/生活小妙招",
     "CSS",
     "JavaScript/生活小妙招",

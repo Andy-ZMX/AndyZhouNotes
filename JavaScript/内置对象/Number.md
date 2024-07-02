@@ -1,4 +1,8 @@
-### 四舍五入取整
+
+---
+
+**四舍五入取整**
+
 ```javascript
 console.log(Math.ceil(1.2))     // 2 向上取整
 console.log(Math.ceil(-1.2))    // -1 向上取整
@@ -15,7 +19,8 @@ console.log(Math.round(-1.6))   // -2 四舍五入
 
 ------------
 
-### 数字字符
+**数字字符**
+
 ```javascript
 // 通过_下划线来分割数字，使数字化可计算：
 
@@ -42,7 +47,8 @@ console.log(date.toLocaleString())	//2022/3/11 上午9:40:38
 
 ------------
 
-### 随机数
+**随机数**
+
 ```javascript
 Math.random()				// 返回一个小数 [0,1)
 Math.random() * (10 + 1)	// 返回一个小数 [0,11)
