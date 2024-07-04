@@ -142,3 +142,7 @@ self.onmessage = function (event) {
   postMessage(result)
 }
 ```
+
+------------
+
+https://juejin.cn/post/7340636105765535796

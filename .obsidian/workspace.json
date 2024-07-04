@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc94351450d9b539",
+        "id": "30a4da3ff51d37f3",
         "type": "tabs",
         "children": [
           {
-            "id": "24aa618a1e53ae5a",
+            "id": "dcc95593f759a2bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/生活小妙招/未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/生活小妙招/未命名.md",
+                "file": "images/Pasted image 20240704221227.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/生活小妙招/未命名.md",
+                "file": "images/Pasted image 20240704221227.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/生活小妙招/未命名.md"
+                "file": "images/Pasted image 20240704221227.png"
               }
             }
           },
@@ -158,15 +154,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "24aa618a1e53ae5a",
+  "active": "edc9446299971f0d",
   "lastOpenFiles": [
+    "JavaScript/生活小妙招/webworker.md",
+    "JavaScript/生活小妙招/JSP 生成二维码.md",
     "JavaScript/生活小妙招/JSP 下载图片.md",
-    "JavaScript/生活小妙招/未命名.md",
-    "Pasted image 20240704221227.png",
+    "images/Pasted image 20240704221227.png",
     "JavaScript/生活小妙招/JSP 上传图片.md",
-    "Pasted image 20240704221035.png",
+    "images/Pasted image 20240704221035.png",
     "Oracle/查询 DBLINK.md",
-    "Pasted image 20240704220350.png",
+    "images/Pasted image 20240704220350.png",
     "Soft Technology/HTML 的 meta 标签.md",
     "CSS/生活小妙招/文本显示上标和下标.md",
     "JavaScript/生活小妙招/前端埋点.md",
@@ -184,7 +181,6 @@
     "JavaScript/async 函数.md",
     "JavaScript/JS 异步应用.md",
     "JavaScript/window 的 事件.md",
-    "JavaScript/生活小妙招/webworker.md",
     "JavaScript/import 和 export.md",
     "JavaScript/内置对象/Object.md",
     "JavaScript/内置对象/Symbol.md",

@@ -13,9 +13,9 @@
         let name = '周库里'
         let newname = utf16to8(name)
         let url = "https://www.baidu.com"
-		
-		$('#qrcode').qrcode({ width: 100, height: 100, correctLevel: 0, text: url });
-		
+
+        $('#qrcode').qrcode({ width: 100, height: 100, correctLevel: 0, text: url });
+
         function utf16to8(str) {
             let out = "";
             for (let i = 0; i < str.length; i++) {
@@ -35,7 +35,4 @@
         }
     </script>
 </body>
-
-
-
 ```
