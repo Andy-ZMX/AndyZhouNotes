@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft Technology/HTML 的 meta 标签.md",
+                "file": "Oracle/查询 DBLINK.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft Technology/HTML 的 meta 标签.md",
+                "file": "Oracle/查询 DBLINK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft Technology/HTML 的 meta 标签.md",
+                "file": "Oracle/查询 DBLINK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft Technology/HTML 的 meta 标签.md"
+                "file": "Oracle/查询 DBLINK.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "24aa618a1e53ae5a",
   "lastOpenFiles": [
-    "CSS/生活小妙招/文本显示上标和下标.md",
+    "Pasted image 20240704220350.png",
     "Soft Technology/HTML 的 meta 标签.md",
+    "CSS/生活小妙招/文本显示上标和下标.md",
     "JavaScript/生活小妙招/前端埋点.md",
     "JavaScript/内置对象/Number.md",
     "images/Pasted image 20240630143827.png",
@@ -190,7 +191,6 @@
     "JavaScript/生活小妙招/一键全选.md",
     "JavaScript/window 的 history.md",
     "JavaScript/函数参数 arguments.md",
-    "JavaScript/window 的 onload.md",
     "images/Pasted image 20240623205248.png",
     "images/Pasted image 20240623221737.png",
     "images/Pasted image 20240623221640.png",
