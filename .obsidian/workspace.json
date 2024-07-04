@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/查询 DBLINK.md",
+                "file": "JavaScript/生活小妙招/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/查询 DBLINK.md",
+                "file": "JavaScript/生活小妙招/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/查询 DBLINK.md",
+                "file": "JavaScript/生活小妙招/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/查询 DBLINK.md"
+                "file": "JavaScript/生活小妙招/未命名.md"
               }
             }
           },
@@ -160,6 +160,12 @@
   },
   "active": "24aa618a1e53ae5a",
   "lastOpenFiles": [
+    "JavaScript/生活小妙招/JSP 下载图片.md",
+    "JavaScript/生活小妙招/未命名.md",
+    "Pasted image 20240704221227.png",
+    "JavaScript/生活小妙招/JSP 上传图片.md",
+    "Pasted image 20240704221035.png",
+    "Oracle/查询 DBLINK.md",
     "Pasted image 20240704220350.png",
     "Soft Technology/HTML 的 meta 标签.md",
     "CSS/生活小妙招/文本显示上标和下标.md",
@@ -169,7 +175,6 @@
     "Oracle/网站.md",
     "images/Pasted image 20240630211622.png",
     "images/Pasted image 20240702214506.png",
-    "Oracle/查询 DBLINK.md",
     "images/Pasted image 20240702214531.png",
     "images/Pasted image 20240702214518.png",
     "Oracle/查询 if + for.md",
@@ -189,13 +194,8 @@
     "JavaScript/类 class.md",
     "JavaScript/生活小妙招/ASCII 码转换.md",
     "JavaScript/生活小妙招/一键全选.md",
-    "JavaScript/window 的 history.md",
-    "JavaScript/函数参数 arguments.md",
     "images/Pasted image 20240623205248.png",
     "images/Pasted image 20240623221737.png",
-    "images/Pasted image 20240623221640.png",
-    "images/Pasted image 20240623221440.png",
-    "images/Pasted image 20240623211629.png",
     "CSS/生活小妙招",
     "CSS",
     "JavaScript/生活小妙招",
