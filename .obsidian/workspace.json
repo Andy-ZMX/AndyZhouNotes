@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/查询 死锁.md",
+                "file": "JavaScript/数据类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oracle/查询 死锁.md",
+                "file": "JavaScript/数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oracle/查询 死锁.md",
+                "file": "JavaScript/数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oracle/查询 死锁.md"
+                "file": "JavaScript/数据类型.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "dcc95593f759a2bf",
   "lastOpenFiles": [
+    "Oracle/查询 死锁.md",
     "JavaScript/生活小妙招/webworker.md",
     "JavaScript/生活小妙招/JSP 生成二维码.md",
     "JavaScript/生活小妙招/JSP 下载图片.md",
@@ -193,7 +194,6 @@
     "JavaScript/自定义属性.md",
     "JavaScript/类 class.md",
     "JavaScript/生活小妙招/ASCII 码转换.md",
-    "JavaScript/生活小妙招/一键全选.md",
     "images/Pasted image 20240623205248.png",
     "images/Pasted image 20240623221737.png",
     "CSS/生活小妙招",
