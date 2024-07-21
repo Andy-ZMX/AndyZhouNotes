@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/生活小妙招/深拷贝 和 浅拷贝.md",
+                "file": "JavaScript/生活小妙招/启动本地 exe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/生活小妙招/深拷贝 和 浅拷贝.md",
+                "file": "JavaScript/生活小妙招/启动本地 exe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/生活小妙招/深拷贝 和 浅拷贝.md",
+                "file": "JavaScript/生活小妙招/启动本地 exe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/生活小妙招/深拷贝 和 浅拷贝.md"
+                "file": "JavaScript/生活小妙招/启动本地 exe.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "dcc95593f759a2bf",
   "lastOpenFiles": [
-    "JavaScript/数据类型.md",
     "JavaScript/生活小妙招/深拷贝 和 浅拷贝.md",
+    "JavaScript/生活小妙招/启动本地 exe.md",
+    "JavaScript/数据类型.md",
     "Oracle/查询 死锁.md",
     "JavaScript/生活小妙招/webworker.md",
     "JavaScript/生活小妙招/JSP 生成二维码.md",
@@ -193,7 +194,6 @@
     "JavaScript/内置对象/Symbol.md",
     "JavaScript/闭包.md",
     "JavaScript/作用域.md",
-    "JavaScript/自定义属性.md",
     "images/Pasted image 20240623205248.png",
     "images/Pasted image 20240623221737.png",
     "CSS/生活小妙招",
