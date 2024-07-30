@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/工厂模式.md",
+                "file": "设计模式/策略模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/工厂模式.md",
+                "file": "设计模式/策略模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/工厂模式.md",
+                "file": "设计模式/策略模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/工厂模式.md"
+                "file": "设计模式/策略模式.md"
               }
             }
           },
@@ -160,6 +160,10 @@
   },
   "active": "dcc95593f759a2bf",
   "lastOpenFiles": [
+    "设计模式/代理模式.md",
+    "设计模式/单例模式.md",
+    "设计模式/工厂模式.md",
+    "设计模式/原型模式.md",
     "JavaScript/生活小妙招/启动本地 exe.md",
     "JavaScript/生活小妙招/深拷贝 和 浅拷贝.md",
     "JavaScript/数据类型.md",
@@ -190,10 +194,6 @@
     "JavaScript/JS 异步应用.md",
     "JavaScript/window 的 事件.md",
     "JavaScript/import 和 export.md",
-    "JavaScript/内置对象/Object.md",
-    "JavaScript/内置对象/Symbol.md",
-    "JavaScript/闭包.md",
-    "JavaScript/作用域.md",
     "images/Pasted image 20240623205248.png",
     "images/Pasted image 20240623221737.png",
     "CSS/生活小妙招",
