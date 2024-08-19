@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winform/生活小妙招儿/奇怪的符号.md",
+                "file": "Winform/ref 和 out.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winform/生活小妙招儿/奇怪的符号.md",
+                "file": "Winform/ref 和 out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winform/生活小妙招儿/奇怪的符号.md",
+                "file": "Winform/ref 和 out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winform/生活小妙招儿/奇怪的符号.md"
+                "file": "Winform/ref 和 out.md"
               }
             }
           },
@@ -160,8 +160,12 @@
   },
   "active": "dcc95593f759a2bf",
   "lastOpenFiles": [
-    "Winform/生活小妙招儿/时间.md",
+    "Winform/nameof.md",
+    "Winform/ref 和 out.md",
+    "Winform/Set 和 Map.md",
+    "Winform/生活小妙招儿/类型转换.md",
     "Winform/生活小妙招儿/奇怪的符号.md",
+    "Winform/生活小妙招儿/时间.md",
     "Winform/生活小妙招儿/Linq 语法.md",
     "Winform/生活小妙招儿/随机数.md",
     "Winform/生活小妙招儿/模板字符串.md",
@@ -189,10 +193,6 @@
     "images/Pasted image 20240704221035.png",
     "Oracle/查询 DBLINK.md",
     "images/Pasted image 20240704220350.png",
-    "Soft Technology/HTML 的 meta 标签.md",
-    "CSS/生活小妙招/文本显示上标和下标.md",
-    "JavaScript/生活小妙招儿/前端埋点.md",
-    "JavaScript/内置对象/Number.md",
     "images/Pasted image 20240630143827.png",
     "images/Pasted image 20240630211622.png",
     "images/Pasted image 20240702214506.png",
