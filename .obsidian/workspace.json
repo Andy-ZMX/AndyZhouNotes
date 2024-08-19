@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/策略模式.md",
+                "file": "Winform/生活小妙招儿/读取resx内容.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/策略模式.md",
+                "file": "Winform/生活小妙招儿/读取resx内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/策略模式.md",
+                "file": "Winform/生活小妙招儿/读取resx内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/策略模式.md"
+                "file": "Winform/生活小妙招儿/读取resx内容.md"
               }
             }
           },
@@ -160,25 +160,32 @@
   },
   "active": "dcc95593f759a2bf",
   "lastOpenFiles": [
+    "Winform/生活小妙招儿/读取App.config内容.md",
+    "Winform/生活小妙招儿/读取resx内容.md",
+    "Pasted image 20240819221748.png",
+    "Oracle/查询 死锁.md",
+    "Winform/生活小妙招儿",
+    "Winform",
+    "Pasted image 20240819221010.png",
+    "设计模式/策略模式.md",
     "设计模式/代理模式.md",
     "设计模式/单例模式.md",
     "设计模式/工厂模式.md",
     "设计模式/原型模式.md",
-    "JavaScript/生活小妙招/启动本地 exe.md",
-    "JavaScript/生活小妙招/深拷贝 和 浅拷贝.md",
+    "JavaScript/生活小妙招儿/启动本地 exe.md",
+    "JavaScript/生活小妙招儿/深拷贝 和 浅拷贝.md",
     "JavaScript/数据类型.md",
-    "Oracle/查询 死锁.md",
-    "JavaScript/生活小妙招/webworker.md",
-    "JavaScript/生活小妙招/JSP 生成二维码.md",
-    "JavaScript/生活小妙招/JSP 下载图片.md",
+    "JavaScript/生活小妙招儿/webworker.md",
+    "JavaScript/生活小妙招儿/JSP 生成二维码.md",
+    "JavaScript/生活小妙招儿/JSP 下载图片.md",
     "images/Pasted image 20240704221227.png",
-    "JavaScript/生活小妙招/JSP 上传图片.md",
+    "JavaScript/生活小妙招儿/JSP 上传图片.md",
     "images/Pasted image 20240704221035.png",
     "Oracle/查询 DBLINK.md",
     "images/Pasted image 20240704220350.png",
     "Soft Technology/HTML 的 meta 标签.md",
     "CSS/生活小妙招/文本显示上标和下标.md",
-    "JavaScript/生活小妙招/前端埋点.md",
+    "JavaScript/生活小妙招儿/前端埋点.md",
     "JavaScript/内置对象/Number.md",
     "images/Pasted image 20240630143827.png",
     "Oracle/网站.md",
@@ -187,25 +194,17 @@
     "images/Pasted image 20240702214531.png",
     "images/Pasted image 20240702214518.png",
     "Oracle/查询 if + for.md",
-    "JavaScript/生活小妙招/导出 excel.md",
-    "JavaScript/生活小妙招/导出文件.md",
+    "JavaScript/生活小妙招儿/导出 excel.md",
+    "JavaScript/生活小妙招儿/导出文件.md",
     "JavaScript/Generator 函数.md",
-    "JavaScript/async 函数.md",
-    "JavaScript/JS 异步应用.md",
-    "JavaScript/window 的 事件.md",
-    "JavaScript/import 和 export.md",
-    "images/Pasted image 20240623205248.png",
-    "images/Pasted image 20240623221737.png",
     "CSS/生活小妙招",
     "CSS",
-    "JavaScript/生活小妙招",
+    "JavaScript/生活小妙招儿",
     "images",
     "JavaScript/内置对象",
     "未命名 1",
     "未命名.canvas",
     "设计模式",
-    "Oracle",
-    "Soft Technology",
-    "JavaScript"
+    "Oracle"
   ]
 }
