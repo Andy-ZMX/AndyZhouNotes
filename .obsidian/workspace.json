@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winform/生活小妙招儿/读取resx内容.md",
+                "file": "Winform/生活小妙招儿/奇怪的符号.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winform/生活小妙招儿/读取resx内容.md",
+                "file": "Winform/生活小妙招儿/奇怪的符号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winform/生活小妙招儿/读取resx内容.md",
+                "file": "Winform/生活小妙招儿/奇怪的符号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winform/生活小妙招儿/读取resx内容.md"
+                "file": "Winform/生活小妙招儿/奇怪的符号.md"
               }
             }
           },
@@ -160,8 +160,14 @@
   },
   "active": "dcc95593f759a2bf",
   "lastOpenFiles": [
-    "Winform/生活小妙招儿/读取App.config内容.md",
+    "Winform/生活小妙招儿/时间.md",
+    "Winform/生活小妙招儿/奇怪的符号.md",
+    "Winform/生活小妙招儿/Linq 语法.md",
+    "Winform/生活小妙招儿/随机数.md",
+    "Winform/生活小妙招儿/模板字符串.md",
+    "Winform/生活小妙招儿/扩展已有类的方法.md",
     "Winform/生活小妙招儿/读取resx内容.md",
+    "Winform/生活小妙招儿/读取App.config内容.md",
     "Pasted image 20240819221748.png",
     "Oracle/查询 死锁.md",
     "Winform/生活小妙招儿",
@@ -188,15 +194,10 @@
     "JavaScript/生活小妙招儿/前端埋点.md",
     "JavaScript/内置对象/Number.md",
     "images/Pasted image 20240630143827.png",
-    "Oracle/网站.md",
     "images/Pasted image 20240630211622.png",
     "images/Pasted image 20240702214506.png",
     "images/Pasted image 20240702214531.png",
     "images/Pasted image 20240702214518.png",
-    "Oracle/查询 if + for.md",
-    "JavaScript/生活小妙招儿/导出 excel.md",
-    "JavaScript/生活小妙招儿/导出文件.md",
-    "JavaScript/Generator 函数.md",
     "CSS/生活小妙招",
     "CSS",
     "JavaScript/生活小妙招儿",
